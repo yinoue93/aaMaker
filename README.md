@@ -5,12 +5,12 @@ Converts real life media (images, videos) to ascii art (AA) media.
 ## Examples
 ### Images
 
-<img src="imgs/fuji2.png" width="400"><img src="imgs/fuji2_line.png" width="400">
-<img src="imgs/img_000097.png" width="400"><img src="imgs/img_000097_aa.png" width="400">
-<img src="imgs/img_000642.png" width="400"><img src="imgs/img_000642_aa.png" width="400">
-<img src="imgs/img_001587.png" width="400"><img src="imgs/img_001587_aa.png" width="400">
-<img src="imgs/img_001723.png" width="400"><img src="imgs/img_001723_aa.png" width="400">
-<img src="imgs/img_002851.png" width="400"><img src="imgs/img_002851_aa.png" width="400">
+<img src="imgs/fuji2.png" width="500"><img src="imgs/fuji2_aa.png" width="500">
+<img src="imgs/img_000097.png" width="500"><img src="imgs/img_000097_aa.png" width="500">
+<img src="imgs/img_000642.png" width="500"><img src="imgs/img_000642_aa.png" width="500">
+<img src="imgs/img_001587.png" width="500"><img src="imgs/img_001587_aa.png" width="500">
+<img src="imgs/img_001723.png" width="500"><img src="imgs/img_001723_aa.png" width="500">
+<img src="imgs/img_002851.png" width="500"><img src="imgs/img_002851_aa.png" width="500">
 
 ### Videos
 
@@ -19,8 +19,8 @@ Converts real life media (images, videos) to ascii art (AA) media.
 ### 1. Convert the original image to line drawing
 Uses cv2.Canny(). In the below image, the white pixels indicate the edges.
 
-<img src="imgs/fuji2.png" width="400"><img src="imgs/fuji2_line.png" width="400">
-<img src="imgs/img_001723.png" width="400"><img src="imgs/img_001723_line.png" width="400">
+<img src="imgs/fuji2.png" width="500"><img src="imgs/fuji2_line.png" width="500">
+<img src="imgs/img_001723.png" width="500"><img src="imgs/img_001723_line.png" width="500">
 
 
 ### 2. Convert the line drawing to ascii art
@@ -34,15 +34,15 @@ Brightness characters:
 
 ### Convolution Examples:
 
-#### Original Image
+Original Image
 <img src="imgs/sword.npg" width="400">
-#### `－`
+`－`
 <img src="imgs/conv_hyphen.png" width="400">
-#### `|`
+`|`
 <img src="imgs/conv_bar.png" width="400">
-#### `＼`
+`＼`
 <img src="imgs/conv_bslash.png" width="400">
-#### `／`
+`／`
 <img src="imgs/conv_fslash.png" width="400">
 
 ## Usage
