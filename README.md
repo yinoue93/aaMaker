@@ -35,6 +35,7 @@ Brightness characters:
 ### Convolution Examples:
 
 #### Original Image
+#### －|
 <img src="imgs/conv_hyphen.png" width="300"><img src="imgs/conv_bar.png" width="300">
 <img src="imgs/conv_bslash.png" width="300"><img src="imgs/conv_fslash.png" width="300">
 
