@@ -38,7 +38,7 @@ Brightness characters:
 <img src="imgs/sword.jpg" width="300">
 
 #### Normalized Convolution Output
-<img src="imgs/conv.png" width="200">
+<img src="imgs/conv.png" width="800">
 
 
 ## Usage
