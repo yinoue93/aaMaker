@@ -37,10 +37,8 @@ Brightness characters:
 #### Original Image
 <img src="imgs/sword.jpg" width="300">
 
-#### `－,|`
-<img src="imgs/conv_hyphen.png" width="300"><img src="imgs/conv_bar.png" width="300">
-#### `＼,／`
-<img src="imgs/conv_bslash.png" width="300"><img src="imgs/conv_fslash.png" width="300">
+#### Normalized Convolution Output
+<img src="imgs/conv.png" width="200">
 
 
 ## Usage
