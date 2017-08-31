@@ -5,12 +5,12 @@ Converts real life media (images, videos) to ascii art (AA) media.
 ## Examples
 ### Images
 
-<img src="imgs/fuji2.png" width="200"><img src="imgs/fuji2_aa.png" width="600">
-<img src="imgs/img_000097.png" width="200"><img src="imgs/img_000097_aa.png" width="600">
-<img src="imgs/img_000642.png" width="200"><img src="imgs/img_000642_aa.png" width="600">
-<img src="imgs/img_001587.png" width="200"><img src="imgs/img_001587_aa.png" width="600">
-<img src="imgs/img_001723.png" width="200"><img src="imgs/img_001723_aa.png" width="600">
-<img src="imgs/img_002851.png" width="200"><img src="imgs/img_002851_aa.png" width="600">
+<img src="imgs/fuji2.png" width="200"><img src="imgs/fuji2_aa.png" width="650">
+<img src="imgs/img_000097.png" width="200"><img src="imgs/img_000097_aa.png" width="650">
+<img src="imgs/img_000642.png" width="200"><img src="imgs/img_000642_aa.png" width="650">
+<img src="imgs/img_001587.png" width="200"><img src="imgs/img_001587_aa.png" width="650">
+<img src="imgs/img_001723.png" width="200"><img src="imgs/img_001723_aa.png" width="650">
+<img src="imgs/img_002851.png" width="200"><img src="imgs/img_002851_aa.png" width="650">
 
 ### Videos
 
@@ -36,9 +36,7 @@ Brightness characters:
 
 #### Original Image
 <img src="imgs/sword.jpg" width="300">
-#### －|
 <img src="imgs/conv_hyphen.png" width="300"><img src="imgs/conv_bar.png" width="300">
-#### ＼／
 <img src="imgs/conv_bslash.png" width="300"><img src="imgs/conv_fslash.png" width="300">
 
 
